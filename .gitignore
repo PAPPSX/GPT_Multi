@@ -1,0 +1,33 @@
+# Ignore node modules and dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build files
+dist/
+build/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+
+# Ignore Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore macOS files
+*.DS_Store

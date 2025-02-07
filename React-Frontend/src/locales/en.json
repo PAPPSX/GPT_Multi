@@ -1,0 +1,30 @@
+{
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "en": "English",
+    "mr": "Marathi",
+    "hi": "Hindi"
+  },
+  "login": "Login",
+  "upload": "Upload",
+  "image": "🖼️ Image",
+  "audio": "🎵 Audio",
+  "pdf": "📄 PDF",
+  "messagePlaceholder": "Message MultiGPT...",
+  "record": "Record",
+  "send": "Send",
+  "audioChat": "Audio Chat",
+  "chatHistory": "Chat History",
+  "newChat": "New Chat",
+  "uploadButtonTitle": "Upload",
+  "recordButtonTitle": "Record",
+  "sendButtonTitle": "Send",
+  "audioChatButtonTitle": "Audio Chat",
+  "imageUploadLabel": "🖼️ Image",
+  "audioUploadLabel": "🎵 Audio",
+  "pdfUploadLabel": "📄 PDF"
+}
